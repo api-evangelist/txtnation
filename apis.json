@@ -1,0 +1,96 @@
+{
+    "name": "txtNation",
+    "description": "txtNation Mobile Billing and SMS Messaging",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/1188-txtnation.jpg",
+    "tags": [
+        "have api",
+        "lookup",
+        "networks",
+        "telecommunications",
+        "validations",
+        "verification"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/txtnation\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "txtNation",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/1188-txtnation.jpg",
+            "humanURL": "http:\/\/wiki.txtnation.com\/wiki\/HLR_Number_Lookup_API",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/txtnation-openapi.json"
+                },
+                {
+                    "type": "x-postman-collecction",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/txtnation-postman-collection.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Website",
+            "url": "http:\/\/wiki.txtnation.com\/wiki\/HLR_Number_Lookup_API"
+        },
+        {
+            "type": "Blog",
+            "url": "http:\/\/blog.txtnation.com\/"
+        },
+        {
+            "type": "Blog RSS",
+            "url": "http:\/\/blog.txtnation.com\/feed\/"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "http:\/\/www.crunchbase.com\/company\/txtnation"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/txtnation"
+        },
+        {
+            "type": "Email",
+            "url": "sales@txtnation.com"
+        },
+        {
+            "type": "Email",
+            "url": "sales_uk@txtnation.com"
+        },
+        {
+            "type": "Email",
+            "url": "sales_ie@txtnation.com"
+        },
+        {
+            "type": "Email",
+            "url": "sales_usa@txtnation.com"
+        },
+        {
+            "type": "Email",
+            "url": "sales_denmark@txtnation.com"
+        },
+        {
+            "type": "Email",
+            "url": "sales_sweden@txtnation.com"
+        },
+        {
+            "type": "Email",
+            "url": "sales_france@txtnation.com"
+        },
+        {
+            "type": "Email",
+            "url": "sales_germany@txtnation.com"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/txtnation"
+        }
+    ]
+}
